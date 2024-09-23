@@ -7,6 +7,7 @@ function generateLoremIpsum() {
 }
 
 function FluxDisplay({ data }) {
+  // Utilisez les données passées en props pour conditionner l'affichage
   const fluxImpossibles = [
     generateLoremIpsum(),
     generateLoremIpsum(),
