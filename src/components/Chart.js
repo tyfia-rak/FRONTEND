@@ -43,7 +43,6 @@ function Chart({ data }) {
         borderColor: 'black',
         fill: false,
       },
-      // Ajoutez d'autres datasets selon vos besoins
     ],
   };
 
